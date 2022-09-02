@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a741e5b3-788c-48e3-912b-563e6e9d0ad9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Assignments/Java-Prof-Maria/hw2-sol/Poker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Dots and Boxes/Dots and Boxes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Homework 3 (2)/Homework 3 (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Homework10/Homework10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Homework10/Homework10/Homework10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Homework5/Homework5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/Java Maria /week 7/10 - JavaFX - lectureCode/guiModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/NetworkConcentration/NetworkConcentration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Masters RIT/Spring 2022/Java/ToyStore/ToyStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/BaseTypes/BaseTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/BasicOperators/StringAndInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/BasicOperators/StringLiteral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/ArgsForCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/ArgsForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/ArgsWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/BreakDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/ContinueDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/IfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/PromptDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/SwitchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/ControlFlow/TernaryOperatorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/HelloWorld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/TypeErrors/ForVariableScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/TypeErrors/HelloWorldTypeError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/TypeErrors/ReturnTypeError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/TypeErrors/WillDie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-1/Java Basics - lecture code/TypeErrors/WillNotCompile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/enumType/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/enumType/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/singleton/TestSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/CannonballRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/Road.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/TestVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/data/race.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/Classes - lectureCode/vehicle/data/racine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/book code/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java Lecture Code/week-2/book code/TestBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/Homework9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/PolyDerive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/PolyEval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/PolyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/PolyRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/PolyString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw1-sol/problems.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/client/ConcentrationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/client/ConcentrationClientBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/game/ConcentrationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/server/ConcentrationClientServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/Concentration/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/client/ConcentrationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/client/ConcentrationClientBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/game/ConcentrationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw10-sol/hw10/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/hw11.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/client/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/client/controller/ConcentrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/model/ConcentrationModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/ConcentrationGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/abra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/charizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/diglett.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/golbat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/golem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/jigglypuff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/magikarp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/meowth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/mewtwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/natu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/pidgey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/pokeball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/poliwag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/psyduck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/rattata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/slowpoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/snorlak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw11-sol/src/view/squirtle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/Poker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/miniPoker/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/miniPoker/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/miniPoker/MiniPoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/miniPoker/PokerHand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/playingCards/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/playingCards/Deck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/playingCards/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/playingCards/Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/test/TestCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/test/TestComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/out/production/Poker/test/TestHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/miniPoker/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/miniPoker/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/miniPoker/MiniPoker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/miniPoker/PokerHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/playingCards/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/playingCards/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/playingCards/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/playingCards/Suit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/test/TestCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/test/TestComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw2-sol/src/test/TestHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/battlefield/Battlefield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/battlefield/Bunker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/battlefield/Chopper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/battlefield/EnemyBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/players/Guerrilla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/players/Hostage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/players/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/players/Predator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw3-sol/players/Soldier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/store/AlsToyBarn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/store/ToyStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/test/TestActionFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/test/TestDoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/test/TestRCCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/test/TestRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/test/TestScooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/ActionFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/BatteryType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/Condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/Doll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/IToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/RCCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/Scooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/Toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw4-sol/toy/ToyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw5-sol/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw5-sol/simulation/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw5-sol/simulation/WorldDance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw5-sol/test/TestSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/Battleship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/BattleshipException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/CellPlayedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/Orientation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/OutOfBoundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/OverlapException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw6-sol/battleship/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/gui/ConnectFourGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/gui/empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/gui/p1black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/gui/p2red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/gui/questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/model/ConnectFourBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/connectfour/ptui/ConnectFourPTUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw7-sol/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/gui/ImageViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/model/QTException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/model/QTNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/model/QuadTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw8-sol/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/BeeMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/bee/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/bee/Drone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/bee/Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/bee/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/util/RandomBee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/world/BeeHive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/world/FlowerField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Java-Prof-Maria/hw9-sol/world/QueensChamber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python Fall Quizes.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework1-sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework2-sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework3-sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework4-sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework5-sol/sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework5-sol/tripods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework6-sol/cs_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework6-sol/cs_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework6-sol/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework6-sol/vegas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework7-sol/dnalist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework7-sol/genetester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework8-sol/trie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework8-sol/trietester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Homework9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/Python-Prof-Maria/Lab1-Internal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/client/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/client/controller/ConcentrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/model/ConcentrationModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/ConcentrationGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/abra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/charizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/diglett.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/golbat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/golem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/jigglypuff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/magikarp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/meowth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/mewtwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/natu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/pidgey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/pokeball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/poliwag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/psyduck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/rattata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/slowpoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/snorlak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concentration Game/src/view/squirtle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/client/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/client/controller/ConcentrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/model/ConcentrationModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/ConcentrationGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/abra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/charizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/diglett.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/golbat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/golem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/jigglypuff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/magikarp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/meowth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/mewtwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/natu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/pidgey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/pokeball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/poliwag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/psyduck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/rattata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/slowpoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/snorlak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConcentrationGame/src/view/squirtle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Grad Assistantship Application - Compressed copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java class.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leet Code.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python class.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python-CSCI603" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Instagram Logo/Instagram Logo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Python Quizes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Graphs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/data/boston.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/data/lecture.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/searchAlgos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/subway.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/Week 12 - lecture code-2/vertex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/icemaze-stu-lab.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 12/week 12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/data/AB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/data/disconnected.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/data/wny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/dijkstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13 - Lecture code-2/vertex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/Week 13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 13/dijkstra.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 15/Week 15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 15/heap(Lecture Code).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 15/heap-stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 15/tracker_pss.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Recursion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/euclid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/hanoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/treeColor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3 - lecture code/xs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/Week 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 3/sunstar-lab3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/data/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/data/data10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/data/data100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/data/data1K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/people-init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/Week 4 - Lecture code-2/people.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/spellfixer - lab4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/spellfixer/feature.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/spellfixer/spellfixer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 4/week 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Autocomplete/auto_complete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Autocomplete/bsearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Autocomplete/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Built-in collection data types.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Searching&amp;Sorting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Week 5 - Lecture code/rit_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/Week 5 - Lecture code/rit_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/autoComplete - lab5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 5/week 5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT-stu - lab 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/Gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/Passenger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/Plane.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/airit_simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/airit_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/cs_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/cs_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/passengers_large.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/passengers_small.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/AiRIT/passengers_very_small.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/Week 7 - Lecture code/cs_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/Week 7 - Lecture code/cs_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/Week 7 - Lecture code/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/Week 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 7/stacks&amp;queues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/LinkedLists.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/data/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/data/data10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/data/data100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/data/data1K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/people-init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/Week 4 - Lecture code-2/people.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/spellfixer - lab4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/spellfixer/feature.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/spellfixer/spellfixer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 4/week 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 8 - Lecture code-3/Iterators/linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 8 - Lecture code-3/Iterators/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 8 - Lecture code-3/LinkedList/linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Week 8/Week 8 - Lecture code-3/LinkedList/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/Lab - 1(Write-a-meme-pss).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/Week 1 - Lecture Code-3/deathly-hallows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/Week 1 - Lecture Code-3/snakes-init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/Week 1 - Lecture Code-3/snakes-jeh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/Week 1 - Lecture Code-3/snakes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 1/week1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 10/Binary Trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 10/pretee_pss.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 10/pretee_stu - lab.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 10/week 10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 2/Lab 2(pig-pss).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 2/Week 2 - Lecture code-2/days.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 2/Week 2 - Lecture code-2/faces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 2/Week 2 - Lecture code-2/grade_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 2/week 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 9/ChainedHash-stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 9/Week 8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 9/Week 9 - Lecture code-4/hashmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 9/hashmap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/week 9/week 9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Ankura-LOR.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Docs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Documents.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/FTE Form.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Financials.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/GRE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Greeshma CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Greeshma IM PS edited .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Greeshma WES.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IELTS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IM-SEL Greeshma.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IM-SEL Greeshma.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IMSEL Greeshma.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IMSEL Greeshma.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IMSEL+ LOR -compressed-compressed.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IMSEL+ LOR .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/IM_SEL_MockUp.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/KGS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/KGSCV UP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR D.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR G.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR S.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR S.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR V 2.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR_CB Greeshma  Updated.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR_CB Greeshma  Updated.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR_CB Greeshma .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/LOR_CB Greeshma.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Mayo cover letter.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Passport.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/SEO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/SOP Arizona .pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/SOP Arizona .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Screen Shot 2022-01-18 at 7.13.58 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Sreenivas Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Sreenivas Sagili Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/StudentEmploymentHireandRehire.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/Tution fee payment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/VisaReq.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/Consolidated Mark Sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/Degree GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/Provisional GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/Screen Shot 2021-10-11 at 1.42.33 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/Transcripts GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/WES form GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/WES docs/passport GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/f98b777c-5277-49cb-a236-accd848a5c74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/01 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/03B0765B-26E3-4D18-B1E3-3C92CCF00903 2.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/03B0765B-26E3-4D18-B1E3-3C92CCF00903 3 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/03B0765B-26E3-4D18-B1E3-3C92CCF00903 3.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/DSC_0816.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/Screen Shot 2021-09-15 at 9.09.24 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/images/Screen Shot 2021-09-15 at 9.12.17 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/passport GS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/payment details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SG/personal statement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Lab 2 Exam/exam.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Lab Exam 1/squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Lab8/trie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Lab8/trietester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 1/card_design.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 1/homework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test-description.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/Lab9-3/test7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/holicow/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/holicow/holicow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/holicow/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 10/holicow/vertex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/data/boston.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/data/lecture.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/searchAlgos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/subway.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 12 - lecture code-2 (graphs)/vertex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 9/04_05_2022_Graphs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/Week 9/Holicow_stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 2/01_17_2022_PythonBasics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 2/DayNight_stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 2/lab2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 3/Homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 3/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 4/Encryption_stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 5/Lab5/sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 5/Lab5/tripods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 5/Tripods_stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 6/lab6-2/cs_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 6/lab6-2/cs_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 6/lab6-2/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/Python/week 6/lab6-2/vegas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/Battleship.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/csci605-hw6-battleship-sr60421.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/csci605-hw6-battleship-sr60421.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/game.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/input/4-4-0-0-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/input/6-6-1-2-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/input/8-8-2-4-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/input/out_of_bounds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/input/overlapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/Battleship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/BattleshipException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/CellPlayedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/Orientation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/OutOfBoundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/OverlapException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/out/production/csci605-hw6-battleship-sr60421/battleship/Ship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/4-4-0-0-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/6-6-1-2-2a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/6-6-1-2-2b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/8-8-2-4-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/out_of_bounds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/output/overlapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/Battleship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/BattleshipException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/CellPlayedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/Orientation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/OutOfBoundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/OverlapException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/csci605-hw6-battleship-sr60421/src/battleship/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/Battleship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/BattleshipException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/CellPlayedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/Orientation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/OutOfBoundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/OverlapException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/battleship/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/hw6/hw6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/Dots and Boxes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/Dots and Boxes.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/DotsAndBoxesDup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (10).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (11).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (12).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (13).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (3).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (4).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (5).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (6).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (7).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (8).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game (9).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/Dot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/DotsAndBoxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/Lines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/out/production/Dots and Boxes/game/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/DotsAndBoxesDup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (10).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (11).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (12).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (13).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (3).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (4).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (5).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (6).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (7).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (8).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game (9).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/Dot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/DotsAndBoxes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/GameBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/Lines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Dots and Boxes/src/game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/Homework 3 (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/Homework 3 (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/AddExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/DivExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/IntExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/Interp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/ModExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/MulExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/SubExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestAddExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestDivExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestIntExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestModExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestMulExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/out/production/Homework 3 (2)/hw3/test/TestSubExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/AddExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/DivExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/Expression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/IntExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/Interp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/ModExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/MulExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/SubExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestAddExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestDivExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestIntExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestModExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestMulExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework 3 (2)/src/hw3/test/TestSubExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/Homework10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/hw10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/client/ConcentrationClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/common/ConcentrationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/common/ConcentrationProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/game/ConcentrationBoard$CardMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/game/ConcentrationBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/game/ConcentrationCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/game/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/server/ConcentrationServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/out/production/Homework10/server/ConcentrationServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/client/ConcentrationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/Homework10/src/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/hw10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/client/ConcentrationClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/common/ConcentrationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/common/ConcentrationProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/game/ConcentrationBoard$CardMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/game/ConcentrationBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/game/ConcentrationCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/game/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/server/ConcentrationServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/out/production/Homework10/server/ConcentrationServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/client/ConcentrationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework10/src/server/ConcentrationServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/Homework5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/Homework5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/sample-run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/GateKeeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/HeapQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/LinkedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/Patron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/studio54/PriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/test/LinkedQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/out/production/Homework5/test/PatronTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/sample-run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/studio54/GateKeeper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/studio54/HeapQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/studio54/LinkedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/studio54/Patron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/studio54/PriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/test/LinkedQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Homework5/src/test/PatronTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/3-Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/enumType/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/enumType/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/singleton/TestSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/CannonballRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/Road.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/TestVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/data/race.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Classes - lectureCode/vehicle/data/racine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/Homework2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/class_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/sample-run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/miniPoker/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/miniPoker/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/miniPoker/MiniPoker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/miniPoker/PokerHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/playingCards/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/playingCards/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/playingCards/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/playingCards/Suit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/test/TestCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/test/TestComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/Homework2/provided_files/src/test/TestHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/book code/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 2/book code/TestBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/25_01_2022_Interfaces.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/4-Interfaces.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Homework3/Homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Homework3/class_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/default method/Mythical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/default method/Pegasus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/shape/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/shape/TestShapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/Interfaces-lectureCode/shape/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 3/hw3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/Homework 6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/AgeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/CheckedPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/Excep6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/Excep_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/FilePerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/IntegerDivision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/MakePeople.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/TestFinallyBlock1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/TestFinallyBlock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-2/TrafficSim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/BracketWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/CopyLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/FiboFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/MoveMyRide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/NLetterWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 6/lectureCode-3/SevenLetterWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/03_22_2022_Threads.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/11-Threads_exercises_solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/Homework 9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/AccountSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ClassSynchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/ProducerConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/SafeBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/ConsumerProducer/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/HelloWorldRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/HelloWorldThreads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/MonitorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/MsLunch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/TestJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/TestNonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/TestSleep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week 9/LectureCode-4/WorkerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/01_11_2022_Java Basics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/1-Intro to Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/2-Control Flow Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/Homework1-2/homework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/Homework1-2/problems.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/Homework1-2/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/homework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/problems/Problem9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/poly/PolyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/poly/stu/PolyDerive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/poly/stu/PolyEval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/poly/stu/PolyRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/poly/stu/PolyString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/Homework1/src/problems.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /Week1/hw1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Homework10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/datagrams/QuoteClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/datagrams/QuoteServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/datagrams/QuoteServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/echo/EchoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/echo/EchoServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo1/Client1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo1/Server1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo2/Client2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo2/Server2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo3/Client3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/json/demo3/Server3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/knock/KKClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/knock/KKMultiServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/knock/KKMultiServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/sockets/knock/KKProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/url/ParseURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/url/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/url/ReverseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/Networking - lectureCode/url/URLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/networking.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/networking1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/datagrams/QuoteClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/datagrams/QuoteServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/datagrams/QuoteServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/echo/EchoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/echo/EchoServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo1/Client1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo1/Server1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo2/Client2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo2/Server2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo3/Client3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/json/demo3/Server3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/knock/KKClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/knock/KKMultiServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/knock/KKMultiServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/sockets/knock/KKProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/url/ParseURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/url/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/url/ReverseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 10/updated Networking - lectureCode/url/URLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/04_12_2022_Lambda.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/Lambda Expressions - lecture code_2/MakePeopleMR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/Lambda Expressions - lecture code_2/MyPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/Lambda Expressions - lecture code_2/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/Lambda Expressions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/Altogether.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/LambdaThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/MethodReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/RunnableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/SumOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 11/lecture code/v1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/02_03_2022_Generics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/5-Inheritance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/6-Generics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/6-Generics_LectureCode/MyGenericQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/6-Generics_LectureCode/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/6-Generics_LectureCode/TestQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Abstract_classes_monster/Flyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Abstract_classes_monster/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Abstract_classes_monster/Ogre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Abstract_classes_monster/Phoenix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Abstract_classes_monster/TestMonsters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Homework 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v0/Animal0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v0/Cat0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v1/Animal1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v1/Cat1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v2/Animal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/animal/v2/Cat2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v0/Apple0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v0/Banana0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v0/FruitI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v0/TrinidadFruitStand0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v1/Apple1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v1/Banana1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v1/FruitC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v1/Lemon1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v1/TrinidadFruitStand1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/Apple2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/Banana2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/FruitA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/Lemon2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/ProfitFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/TrinidadFruitStand2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/ValidateEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/Inheritance-lectureCode/fruit/v2/VerifyAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/monster/Flyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/monster/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/monster/Phoenix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 4/monster/TestMonsters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/02_10_2022_JCF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/03_02_2021_JCF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/7 - JCF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/Homework 5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/WorldDance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/hw5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/src/simulation/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/src/simulation/WorldDance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/Homework/src/test/TestSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/TestEquality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingCollectionsClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingIterators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingMaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 5/lectureCode/UsingSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/03_01_2022_JavaFX_MVC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/guiModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/AppSkeleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/ButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/CheckBoxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/LabelDemo0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/LabelDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/RadioButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxcomponents/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/BorderPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/ButtonGridDemo0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/ButtonGridDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/GridPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/MicrowaveOven1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/MicrowaveOven2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/MultiPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/TextDemoVBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec1_jfxlayouts/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/BorderPaneDemoEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/ButtonEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/ButtonEvents1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/ButtonEvents2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/ButtonEvents3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/DragDropBoxes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/LabelDemoEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/MicrowaveOven2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/MicrowaveOven3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/TextDemoHBoxEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_jfxevents/labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_keyboardexample/KeyboardExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_mvc/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_mvc/CounterGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_mvc/CounterPTUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/lec2_mvc/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/10 - JavaFX - lectureCode/src/outside_event_thread/OutsideEventThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/Homework 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/Week 7 - Lecture code/cs_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/Week 7 - Lecture code/cs_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/Week 7 - Lecture code/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/basics/ButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/basics/CmdLineDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/basics/FirstGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/ButtonsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/PokemonButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/charmander.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/events/snorlax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/layouts/BorderPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/layouts/FlowPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/layouts/GridPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/mvc/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/mvc/CounterGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/mvc/CounterPTUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-4/mvc/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/basics/ButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/basics/CmdLineDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/basics/FirstGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/ButtonsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/PokemonButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/charmander.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/events/snorlax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/layouts/BorderPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/layouts/FlowPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/layouts/GridPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/mvc/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/mvc/CounterGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/mvc/CounterPTUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 7/src-5/mvc/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/Trie-stu.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/Week 8 - Lecture code-5/Iterators/linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/Week 8 - Lecture code-5/Iterators/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/Week 8 - Lecture code-5/LinkedList/linkedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/Week 8 - Lecture code-5/LinkedList/node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/hw8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/gui/ImageViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/model/QTException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/model/QTNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/model/QuadTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/Java Maria /week 8/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/NetworkConcentration.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/NetworkConcentration.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/client/ConcentrationClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/client/ConcentrationClientBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/common/ConcentrationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/common/ConcentrationProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/game/ConcentrationBoard$CardMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/game/ConcentrationBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/game/ConcentrationCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/game/ConcentrationGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/sample_run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/sample_run_server.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/server/ConcentrationClientServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/out/production/NetworkConcentration/server/ConcentrationServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/client/ConcentrationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/client/ConcentrationClientBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/game/ConcentrationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/sample_run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/sample_run_server.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/server/ConcentrationClientServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/NetworkConcentration/src/server/ConcentrationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/ToyStore (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/ToyStore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/100toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/10toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/50toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/Diff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/store/AlsToyBarn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/store/ToyStory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/test/TestActionFigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/test/TestDoll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/test/TestRCCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/test/TestRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/test/TestScooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/ActionFigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/BatteryType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/Condition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/Doll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/IToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/MotionToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/MotionlessToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/RCCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/Scooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/out/production/ToyStore/toy/ToyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/100toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/10toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/50toys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/Diff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/store/AlsToyBarn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/store/ToyStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/test/TestActionFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/test/TestDoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/test/TestRCCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/test/TestRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/test/TestScooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/ActionFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/BatteryType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/Condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/Doll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/IToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/MotionToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/MotionlessToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/RCCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/Scooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/ToyStore/src/toy/ToyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/src/jukeboxhero/JukeBox1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/src/jukeboxhero/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/src/jukeboxhero/SongComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/src/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/Diff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/VigenereCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/VigenereCipherReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/VigenereCipherWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/VigenereException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/VigenereUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/java/vigenerecipher/vigenerecipher.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/battlefield/Battlefield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/battlefield/Bunker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/battlefield/Chopper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/battlefield/EnemyBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/players/Guerrilla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/players/Hostage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/players/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/players/Predator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring 22/src 1/players/Soldier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/PolyDerive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/PolyEval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/PolyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/PolyRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/PolyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/production/Java Spring/problems.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sreenivas Resume update1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sreenivas Sagili.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W 2 form.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hpb java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hpb/CSCI605-JAVA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class 9.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class one.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/class7.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maria/classs 10.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/controller/ConcentrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/ConcentrationGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/abra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/bulbasaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/charizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/diglett.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/golbat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/golem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/jigglypuff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/magikarp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/meowth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/mewtwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/natu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/pidgey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/pokeball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/poliwag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/psyduck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/rattata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/slowpoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/snorlak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/gui/images/squirtle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/common/ConcentrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/common/ConcentrationProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/game/ConcentrationBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/game/ConcentrationCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/model/ConcentrationModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/server/ConcentrationClientServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/server/ConcentrationServer.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CHL7nwhhR5m7nL3BBMKXhd6m4x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a741e5b3-788c-48e3-912b-563e6e9d0ad9" name="Changes" comment="" />
+      <created>1658454398996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658454398996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
